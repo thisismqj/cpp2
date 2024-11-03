@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #define maxn 105
+
 int n;
 double mat[maxn][maxn];
 double imat[maxn][maxn];
