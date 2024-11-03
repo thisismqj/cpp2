@@ -1,0 +1,49 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 306,
+      "versionNonce": 433435149,
+      "index": "b1y",
+      "isDeleted": false,
+      "id": "awedRE2h4FiTvlXCVfSax",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 1280,
+      "y": 660,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "width": 709.9795532226562,
+      "height": 200,
+      "seed": 1906906743,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1723611680515,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 5,
+      "text": "间距下界：L/(N+1)\n间距上界：L\nP(x) : 能移走<=m个石头使得最小间距大于等于x\n从第一个石头开始\n遍历之前间距，<x则拆走该石头(last = last/last = this),跳到下一个石头, m--,\n 直到最后一个石头 \n\n找到最大的x使得p(x)",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "间距下界：L/(N+1)\n间距上界：L\nP(x) : 能移走<=m个石头使得最小间距大于等于x\n从第一个石头开始\n遍历之前间距，<x则拆走该石头(last = last/last = this),跳到下一个石头, m--,\n 直到最后一个石头 \n\n找到最大的x使得p(x)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

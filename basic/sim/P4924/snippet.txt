@@ -1,0 +1,20 @@
+就地旋转
+ lyr
+u123
+x267
+d301
+
+flip1+flip2
+left: /+|
+right: \+|
+left:
+/: r-y1=x2-u, x1-u=r-y2
+    :swap(a[y][x], a[x-u-r][r+u-y])
+i(y):l->r-1; j(x): u->u+(r-i)-1
+\:swap(a[x][y], a[y][x])
+i:l+1->r; j: u->u+i-l-1
+|:swap(a[x][y], a[5-x][5-y])
+区间: d=x-r, u=x+r, l=y-r, r=y+r
+
+3 1
+2 2 1 0

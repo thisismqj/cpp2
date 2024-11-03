@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730597618 source:/home/fisher/Documents/cpp/oi1clk/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

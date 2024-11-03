@@ -1,0 +1,10 @@
+m: 分段数
+n: 数列长度
+数列连续
+使得每段和的最大值x最小
+p(x):
+    遍历每段和, 尽可能大, <=x
+    >x直接return false
+    段数>m return false
+二分, 求x最小值
+xxxxxxxvvvvvvv

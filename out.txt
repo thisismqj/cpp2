@@ -1,0 +1,2105 @@
+Current 1
+1 choose 1
+Current 2
+2 choose 1
+Current 3
+3 choose 1
+Current 4
+4 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 12
+9 choose 2
+Enter final with area 12, min_area 12
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 8, min_area 8
+9 choose 2
+Enter final with area 9, min_area 8
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 8
+9 choose 2
+Enter final with area 10, min_area 8
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 8
+9 choose 2
+Enter final with area 12, min_area 8
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 8
+9 choose 2
+Enter final with area 9, min_area 8
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 8
+9 choose 2
+Enter final with area 10, min_area 8
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 5, min_area 5
+9 choose 2
+Enter final with area 6, min_area 5
+9 End
+8 End
+7 End
+6 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Enter final with area 10, min_area 2
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Enter final with area 10, min_area 2
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Enter final with area 10, min_area 2
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 2
+9 choose 2
+Enter final with area 10, min_area 2
+9 End
+8 choose 2
+Enter final with area 10, min_area 2
+8 End
+7 End
+6 End
+5 End
+4 End
+3 choose 2
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 0, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 3, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 3, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 3, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 3, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 End
+3 End
+2 choose 2
+Current 3
+3 choose 1
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Enter final with area 10, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Enter final with area 10, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Enter final with area 10, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 10, min_area 0
+9 End
+8 choose 2
+Enter final with area 10, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 7, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 5, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 7, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Enter final with area 9, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 End
+3 choose 2
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 1, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 2, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 4, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 8, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+Enter final with area 12, min_area 0
+8 End
+7 End
+6 End
+5 End
+4 End
+3 End
+2 End
+1 choose 2
+Current 2
+2 choose 1
+Current 3
+3 choose 1
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 End
+3 choose 2
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 7, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 7, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 End
+3 End
+2 choose 2
+Current 3
+3 choose 1
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 12, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 3, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 3, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 1, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 9, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 3, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 4, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 3, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 0, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 End
+3 choose 2
+Current 4
+4 choose 1
+Current 5
+5 choose 1
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Enter final with area 10, min_area 0
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 6, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 2, min_area 0
+9 End
+8 End
+7 End
+6 End
+5 End
+4 choose 2
+Current 6
+6 choose 1
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 6, min_area 0
+9 choose 2
+Enter final with area 5, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 End
+7 End
+6 choose 2
+Current 7
+7 choose 1
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 10, min_area 0
+9 choose 2
+Enter final with area 9, min_area 0
+9 End
+8 choose 2
+Current 9
+9 choose 1
+Enter final with area 9, min_area 0
+9 choose 2
+Enter final with area 8, min_area 0
+9 End
+8 End
+7 choose 2
+Current 8
+8 choose 1
+Current 9
+9 choose 1
+Enter final with area 12, min_area 0
+9 choose 2
+Enter final with area 12, min_area 0
+9 End
+8 choose 2
+8 End
+7 End
+6 End
+4 End
+3 End
+2 End
+1 End
+0
