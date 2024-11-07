@@ -85,23 +85,38 @@ struct BigInt {
         return true;
     }
 } n, tn;
+bool chk_set[10];
 int k, f[105];
 int main() {
     n.read();
     scanf("%d", &k);
     f[0] = 1;
+    BigInt base=n;
     for (int j=1; j<=k; ++j) {
         printf("j=%d:\n", j);
+        memset(chk_set, 0, sizeof(chk_set));
+        // base to be set
         for (int i=1;; ++i) {
-            tn = n.pow(j, 1+i*f[j-1]);
+            tn = base.pow(j, i).mul(j, n);
             putchar('\t');
             tn.print();
             putchar('\n');
             if (tn.digits[j-1]==n.digits[j-1]) {
-                f[j] = i*f[j-1];
+                f[j] = i;
                 break;
             }
+            if (chk_set[tn.digits[j-1]]) {
+                printf("-1");
+                return 0;
+            }
+            chk_set[tn.digits[j-1]] = true;
         }
     }
-    printf("%d", f[k]);
+    for (int i=1; i<=k; ++i) {
+        printf("%d\t", f[i]);
+    }
+    // n.read();
+    // scanf("%d", &k);
+    // n=n.pow(100, k);
+    // n.print();
 }
