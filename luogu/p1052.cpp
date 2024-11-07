@@ -1,51 +1,57 @@
 #include <bits/stdc++.h>
-#define f(x) f[(x)%(t+1)]
 using namespace std;
-int l, s, t, m;
-int f[25];
-set<int> stone;
-bool judge(int x) {
-    int n=x/s;
-    int l=n*s;
-    int r=l+n*(t-s);
-    return r>=x;
-}
+int f[10005];
+int s, t, m, l;
+set<int> stones;
+int sto[105], _sp=1;
 int main() {
     memset(f, 0x7f, sizeof(f));
     cin>>l>>s>>t>>m;
-    for (int i=1; i<=m; ++i) {
+    if (s==t) {
+        int x, ans=0;
+        for (int i=1; i<=m; ++i) {
+            cin>>x;
+            if (x%s==0) ++ans;
+        }
+        cout<<ans;
+    } else {
         int x;
-        cin>>x;
-        stone.insert(x);
-    }
-    f[0] = 0; // init
-    for (int i=s; i<t; ++i) {
-        if (stone.find(i)!=stone.end()) {
-            f[i]=1;
-        } else {
-            f[i]=0;
+        for (int i=1; i<=m; ++i) {
+            cin>>x;
+            sto[_sp++] = x;
         }
-    }
-    for (int i=t; i<=l+t-1; ++i) {
-        if (!judge(i)) continue;
-        bool has_stone=false;
-        if (stone.find(i)!=stone.end()) {
-            has_stone=true;
+        sort(sto+1, sto+1+m);
+        l=min(sto[m]+90, l);
+        int last_stone = 0, last_shortened_stone=0;
+        for (int i=1; i<=m; ++i) {
+            int x=sto[i];
+            if (x-last_stone>90) {
+                l-=x-last_stone-90;
+                //printf("Stone%d: %d\n", i, last_shortened_stone+90);
+                stones.insert(last_shortened_stone+90);
+                last_shortened_stone+=90;
+            } else {
+                //printf("Stone%d: %d\n", i, last_shortened_stone+x-last_stone);
+                stones.insert(last_shortened_stone+x-last_stone);
+                last_shortened_stone+=x-last_stone;
+            }
+            last_stone=x;
         }
-        bool changed = false;
-        for (int j=i-t; j<=i-s; ++j) {
-            if (!judge(j)) continue;
-            if (!changed)
-                f(i) = f(j)+has_stone;
-            else f(i) = min(f(i), f(j)+has_stone);
-            changed = true;
+        //printf("l=%d\n", l);
+        f[0] = 0;
+        for (int i=s; i<t; ++i) {
+            f[i] = (stones.find(i)!=stones.end())?1:0;
         }
-        //printf("Stone of %d:%d\n", i, f(i));
+        for (int i=t; i<=l+t-1; ++i) {
+            bool has_stone = (stones.find(i)!=stones.end())?1:0;
+            for (int j=i-t; j<=i-s; ++j) {
+                f[i]=min(f[i], f[j]+has_stone);
+            }
+        }
+        int ans=INT_MAX;
+        for (int i=l; i<=l+t-1; ++i) {
+            ans=min(ans, f[i]);
+        }
+        cout<<ans;
     }
-    int ans=INT_MAX;
-    for (int i=l; i<=l+t-1; ++i) {
-        if (f(i)!=-1)
-            ans=min(ans, f(i));
-    }
-    printf("%d", ans);
 }
