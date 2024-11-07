@@ -4,8 +4,14 @@ using namespace std;
 int l, s, t, m;
 int f[25];
 set<int> stone;
+bool judge(int x) {
+    int n=x/s;
+    int l=n*s;
+    int r=l+n*(t-s);
+    return r>=x;
+}
 int main() {
-    memset(f, -1, sizeof(f));
+    memset(f, 0x7f, sizeof(f));
     cin>>l>>s>>t>>m;
     for (int i=1; i<=m; ++i) {
         int x;
@@ -21,18 +27,20 @@ int main() {
         }
     }
     for (int i=t; i<=l+t-1; ++i) {
+        if (!judge(i)) continue;
         bool has_stone=false;
         if (stone.find(i)!=stone.end()) {
             has_stone=true;
         }
+        bool changed = false;
         for (int j=i-t; j<=i-s; ++j) {
-            if (f(j)!=-1) {
-                if (f(i)==-1)
-                    f(i) = f(j)+has_stone;
-                else f(i) = min(f(i), f(j)+has_stone);
-            }
+            if (!judge(j)) continue;
+            if (!changed)
+                f(i) = f(j)+has_stone;
+            else f(i) = min(f(i), f(j)+has_stone);
+            changed = true;
         }
-        printf("Stone of %d:%d\n", i, f(i));
+        //printf("Stone of %d:%d\n", i, f(i));
     }
     int ans=INT_MAX;
     for (int i=l; i<=l+t-1; ++i) {
