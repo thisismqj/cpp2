@@ -1,4 +1,3 @@
-// version 1 O(n^2)
 #include <bits/stdc++.h>
 using namespace std;
 int e1[50005], e2[50005], arr[50005], nxt[50005], pre[50005];
@@ -68,30 +67,23 @@ int main() {
         c_ptr = pre[c_ptr];
     } while (true);
     int ans = INT_MAX;
-    c_ptr = 1; int c_head = 1;
-    // start from c_head, with o_head(just increasing)
-    int o_ptr;
+    int v=1, p=1, max_off = 0, min_off = INT_MAX;
     do {
-        // normal
-        int p=c_head;
-        o_ptr = 1;
-        int cur_ans=0;
-        do {
-            if (o_ptr!=p) ++cur_ans;
-            p = nxt[p];
-            ++o_ptr;
-        } while (p!=c_head);
-        ans = min(ans, cur_ans);
-        p = c_head;
-        o_ptr = 1;
-        cur_ans=0;
-        do {
-            if (o_ptr!=p) ++cur_ans;
-            p = pre[p];
-            ++o_ptr;
-        } while (p!=c_head);
-        ans = min(ans, cur_ans);
-        c_head = nxt[c_head];
-    } while (c_head!=1);
+        int off = (v+n-p)%n;
+        max_off = max(max_off, off);
+        min_off = min(min_off, off);
+        ++p;
+        v=nxt[v];
+    } while (v!=1);
+    ans = min(ans, max_off-min_off);   
+    p=1, max_off = 0, min_off = INT_MAX;
+    do {
+        int off = (v+n-p)%n;
+        max_off = max(max_off, off);
+        min_off = min(min_off, off);
+        ++p;
+        v=pre[v];
+    } while (v!=1);
+    ans = min(ans, max_off-min_off);   
     cout<<ans;
 }
