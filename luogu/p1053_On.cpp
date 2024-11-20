@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int e1[50005], e2[50005], arr[50005], nxt[50005], pre[50005];
+int e1[50005], e2[50005], arr[50005], nxt[50005], pre[50005], bucket[50005];
 bool vis[50005];
 int n;
 int main() {
@@ -67,23 +67,26 @@ int main() {
         c_ptr = pre[c_ptr];
     } while (true);
     int ans = INT_MAX;
-    int v=1, p=1, max_off = 0, min_off = INT_MAX;
+    int v=1, p=1;
     do {
         int off = (v+n-p)%n;
-        max_off = max(max_off, off);
-        min_off = min(min_off, off);
+        ++bucket[off];
         ++p;
         v=nxt[v];
     } while (v!=1);
-    ans = min(ans, max_off-min_off);   
-    p=1, max_off = 0, min_off = INT_MAX;
+    for (int i=0; i<n; ++i) {
+        ans = min(ans, n-bucket[i]);
+    }
+    memset(bucket, 0, sizeof(bucket));
+    p=1;
     do {
         int off = (v+n-p)%n;
-        max_off = max(max_off, off);
-        min_off = min(min_off, off);
+        ++bucket[off];
         ++p;
         v=pre[v];
     } while (v!=1);
-    ans = min(ans, max_off-min_off);   
+    for (int i=0; i<n; ++i) {
+        ans = min(ans, n-bucket[i]);
+    }
     cout<<ans;
 }
