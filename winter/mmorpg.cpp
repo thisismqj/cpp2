@@ -1,11 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 const int modn=1000003;
-bool discovered[modn];
+bool discovered[modn] = {1};
 int my_hash(const string &b) {
     int val = 0;
     for (int i=0; i<b.length(); ++i) {
-        val = (val*26+b[i]-'a')%modn;
+        val = (val*75+b[i]-'0')%modn;
     }
     return val;
 }

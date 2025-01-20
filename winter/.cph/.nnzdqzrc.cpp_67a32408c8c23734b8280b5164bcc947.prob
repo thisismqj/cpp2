@@ -1,0 +1,1 @@
+{"name":"Local: nnzdqzrc","url":"/home/fisher/Documents/cpp/oi1clk/winter/nnzdqzrc.cpp","tests":[{"id":1737165327972,"input":"1 2 1 3\n5\n4 3\n6\n2 4 3\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/fisher/Documents/cpp/oi1clk/winter/nnzdqzrc.cpp","group":"local","local":true}
